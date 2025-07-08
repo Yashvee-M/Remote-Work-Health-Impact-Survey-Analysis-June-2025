@@ -31,7 +31,7 @@ Gender Distribution on Survey Respondents<br>
 **Data Analysis and Visualization:**<br>
 Mental Health Status by Work Arrangement<br>
 Grouped BarChart of Mental Health Status by Work Arrangement<br>
-![MentalHealthStatusByWorkArrangement](https://github.com/user-attachments/assets/8d0413eb-64ff-430e-b40f-acf447bb3ed9)
+![MentalHealthStatusByWorkArrangement](https://github.com/user-attachments/assets/374ee14d-4ad7-4a9e-b4e0-54512eb29a37)
 
 Physical Health Issues by Work Arrangement<br>
 Heatmap of Physical Health Issues by Work Arrangement<br>
